@@ -1,3 +1,7 @@
 # Local Netlify folder
 .netlify
+<<<<<<< Updated upstream
 *.DS_Store
+=======
+.DS_Store
+>>>>>>> Stashed changes
