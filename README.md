@@ -3,7 +3,7 @@ Link: https://ironfruit-reactjs-todo.netlify.app
 # TO-DO Web App 
 This app uses local storage JSON objects for the to-dos 
 
-
+Tutorial project
 
 # React + Vite
 
